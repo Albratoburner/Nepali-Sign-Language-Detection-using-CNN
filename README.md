@@ -26,15 +26,18 @@ The following models were applied and compared:
 - Models were trained and evaluated on a Nepali Sign Language dataset.  
 - CNN showed the best performance, highlighting the strength of deep learning in image-based recognition tasks.  
 - Other machine learning models such as Logistic Regression, Random Forest, MLP, and SVM were also implemented for comparison.  
+- A script for webcam integration has also been added to demonstrate real-time gesture recognition.  
 
 ## Future Work
 - Extend the system to dynamic gestures (words and sentences).  
-- Develop a real-time recognition tool using webcam integration.  
+- Improve the real-time recognition system for smoother performance.  
 - Deploy as a mobile or web application to increase accessibility.  
 
 ## Tech Stack
 - Python  
-- TensorFlow  
+- TensorFlow / Keras  
 - Scikit-learn  
+- OpenCV  
 - NumPy, Pandas, Matplotlib  
+
 
