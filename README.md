@@ -12,7 +12,11 @@ This project addresses the problem by developing an automated sign language reco
 - To collect and preprocess a dataset of Nepali Sign Language hand signs.  
 - To apply and compare data mining and deep learning techniques for recognition.  
 - To evaluate model performance using accuracy and classification metrics.  
-- To identify the most suitable approach for real-world applications in accessibility and education.  
+- To identify the most suitable approach for real-world applications in accessibility and education.
+
+## Dataset
+The dataset used in this project is the **[Nepali Sign Language Character Dataset](https://www.kaggle.com/datasets/biratpoudelrocks/nepali-sign-language-character-dataset)** from Kaggle.  
+It consists of images representing different Nepali Sign Language characters.
 
 ## Implemented Techniques
 The following models were applied and compared:  
